@@ -32,7 +32,7 @@ Document the steps in a Jupyter Notebook and commit it to the Git repository.
 
 
 
-1 — Create a simple User Registration Form; initialize Git, commit,
+'''1 — Create a simple User Registration Form; initialize Git, commit,
 push to GitHub
 Files to create:
 ● index.html
@@ -425,4 +425,4 @@ coef: [2.] intercept: 0.0
 Commit Jupyter notebook and requirements to Git:
 git add requirements-ml.txt ml_setup.ipynb
 git commit -m "Add ML environment requirements and verification notebook"
-git push origin main
+git push origin main'''
